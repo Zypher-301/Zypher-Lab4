@@ -1,7 +1,5 @@
-package com.example.zypher_lab4.ui.theme;
-
-import com.example.zypher_lab4.Shape;
+package com.example.zypher_lab4;
 
 public class Circle extends Shape {
-    
+    public Integer x;
 }
